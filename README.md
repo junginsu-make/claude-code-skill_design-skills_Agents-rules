@@ -1,4 +1,4 @@
-Agents rules : 개발동생
+AGENTS_md_Master_Prompt.md rules : 개발동생
 
 SKILL.md, plan-template.md : 코드팩토리
 
