@@ -2,7 +2,7 @@
 AGENTS_md_Master_Prompt.md rules : 25.12.19 https://youtu.be/LHx_EFoLonQ?si=-6Fmgs88gJh6g2ml
 
 # 25.12.23
-SKILL.md, plan-template.md : 코드팩토리
+SKILL.md, plan-template.md : 코드팩토리 https://youtu.be/MDAfjhFC9E4?si=tCGjt36YRNHAqv1K
 
 # 25.12.26
 design_skills1 : 소스놀이터 https://youtu.be/fnohbBde2NA?si=01h62e_Bp5pcm8B1
